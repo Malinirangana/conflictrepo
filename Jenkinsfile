@@ -1,5 +1,5 @@
 // this is jenkins comments
 
-pipeline{
+pipelines{
     //some groovy code
 }
